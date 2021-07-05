@@ -1,1 +1,1 @@
-# appsjuwata
+# juwata-apps
